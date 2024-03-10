@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>This is page 1</h2>
-<a href="/Page.jsp">LINK FOR PAGE 2</a>
+<a href="Page.jsp">LINK FOR PAGE 2</a>
 </body>
 </html>
